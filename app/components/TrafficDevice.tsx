@@ -1,13 +1,5 @@
-// export default function TrafficDevice() {
-//   return (
-//     <>
-//       <h3 className="font-semibold mb-4">Traffic by Device</h3>
-//       <div className="h-48 flex items-center justify-center text-zinc-400">
-//         Bar Chart
-//       </div>
-//     </>
-//   );
-// }
+"use client";
+
 import {
   ResponsiveContainer,
   BarChart,
